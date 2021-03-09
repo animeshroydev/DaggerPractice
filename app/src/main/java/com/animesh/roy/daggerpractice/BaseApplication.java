@@ -1,5 +1,6 @@
 package com.animesh.roy.daggerpractice;
 
+import com.animesh.roy.daggerpractice.di.DaggerAppComponent;
 
 import dagger.android.AndroidInjector;
 import dagger.android.support.DaggerApplication;

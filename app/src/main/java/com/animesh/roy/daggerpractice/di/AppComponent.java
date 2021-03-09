@@ -3,6 +3,7 @@ package com.animesh.roy.daggerpractice.di;
 import android.app.Application;
 
 import com.animesh.roy.daggerpractice.BaseApplication;
+import com.animesh.roy.daggerpractice.di.auth.AuthViewModelsModule;
 
 import javax.inject.Singleton;
 
